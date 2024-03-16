@@ -1,0 +1,43 @@
+#wathch youtue video
+#https://www.youtube.com/watch?v=Ahwoks_dawU
+#time end:1:10 min
+#npx create-next-app@latest
+#link: https://nextjs.org/
+##############
+
+#how to setup shadcn/Ui through command line
+#npx shadcn-ui@latest init
+#link: https://ui.shadcn.com
+##############
+
+#how to quilty cerate function of react then need to setup es7+ on vs code
+
+##############
+#how to setup clerk for Authentication
+#npm install @clerk/nextjs
+#https://dashboard.clerk.com/apps/app_2d874dI2JwAxdT3e5QJpOIX9gmh/instances/ins_2d874fah1SX4US8tmXDI7im6tyl
+#clerk doc link : https://clerk.com/docs/quickstarts/nextjs
+
+
+#how to setup mongodb
+#npm install mongodb mongoose
+
+Time Stamps 👇
+00:00:00 — Intro
+00:03:49 — Project Setup
+00:12:12 — Next.js Routing & folder structure
+00:23:21 — Clerk Authentication
+00:37:15 — Layout Sidebar & Mobile Navigation
+01:02:06 — Database & Models Setup
+01:18:54 — Server Actions & Webhook
+01:47:50 — Add Image Form (React Hook Form + Zod Validation)
+02:26:05 — Cloudinary Media Uploader
+02:49:00 — Transformed Image Components
+03:01:10 — Image Server Action
+03:33:25 — Homepage + Search & Pagination
+03:52:10 — Image details, Update & Delete Image
+04:12:21 — Checkout & Pay with Stripe
+04:30:10 — Final Deployment & Production fixes
+
+
+
